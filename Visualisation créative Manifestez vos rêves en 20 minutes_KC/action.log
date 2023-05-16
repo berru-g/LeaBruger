@@ -1,0 +1,232 @@
+[Mon May 15 18:48:39 UTC 2023][INFO] [Action] EE NewBook
+[Mon May 15 18:48:55 UTC 2023][INFO] [Action] E AutoChapterGroupAction - 0
+[Mon May 15 18:49:16 UTC 2023][INFO] [Action] E RevertApplyAutoChapterAction - (r,4382,4382)
+[Mon May 15 18:49:22 UTC 2023][INFO] [Action] E ApplySemantics - (r,4381,4381),chapter_title
+[Mon May 15 18:49:36 UTC 2023][INFO] [Action] E RevertApplyAutoChapterAction - (r,6677,6677)
+[Mon May 15 18:49:37 UTC 2023][INFO] [Action] E RevertApplyAutoChapterAction - (r,8844,8844)
+[Mon May 15 18:49:38 UTC 2023][INFO] [Action] E RevertApplyAutoChapterAction - (r,12265,12265)
+[Mon May 15 18:49:38 UTC 2023][INFO] [Action] E RevertApplyAutoChapterAction - (r,14467,14467)
+[Mon May 15 18:49:39 UTC 2023][INFO] [Action] E RevertApplyAutoChapterAction - (r,16855,16855)
+[Mon May 15 18:49:40 UTC 2023][INFO] [Action] E RevertApplyAutoChapterAction - (r,19410,19410)
+[Mon May 15 18:49:41 UTC 2023][INFO] [Action] E RevertApplyAutoChapterAction - (r,23412,23412)
+[Mon May 15 18:50:01 UTC 2023][INFO] [Action] U RevertApplyAutoChapterAction
+[Mon May 15 18:50:01 UTC 2023][INFO] [Action] U RevertApplyAutoChapterAction
+[Mon May 15 18:50:02 UTC 2023][INFO] [Action] U RevertApplyAutoChapterAction
+[Mon May 15 18:50:02 UTC 2023][INFO] [Action] U RevertApplyAutoChapterAction
+[Mon May 15 18:50:02 UTC 2023][INFO] [Action] U RevertApplyAutoChapterAction
+[Mon May 15 18:50:02 UTC 2023][INFO] [Action] U RevertApplyAutoChapterAction
+[Mon May 15 18:50:03 UTC 2023][INFO] [Action] U RevertApplyAutoChapterAction
+[Mon May 15 18:50:20 UTC 2023][INFO] [Action] E ApplySemantics - (r,70,89),chapter_subtitle
+[Mon May 15 18:50:28 UTC 2023][INFO] [Action] E AddTextContainer - (c,70,1),1,0,0
+[Mon May 15 18:50:29 UTC 2023][INFO] [Action] E MergeContainer - 71,1
+[Mon May 15 18:50:32 UTC 2023][INFO] [Action] E AddTextContainer - (c,90,1),1,0,0
+[Mon May 15 18:50:32 UTC 2023][INFO] [Action] E AddTextContainer - (c,91,1),1,0,0
+[Mon May 15 18:50:35 UTC 2023][INFO] [Action] E MergeContainer - 151,1
+[Mon May 15 18:50:38 UTC 2023][INFO] [Action] E DeleteContent - (c,150,2),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,150,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,149,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,148,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,147,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,146,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,145,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,144,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,143,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,142,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,141,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,140,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,139,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,138,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,137,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,136,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,135,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,134,1),B
+[Mon May 15 18:50:39 UTC 2023][INFO] [Action] E DeleteContent - (c,133,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,132,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,131,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,130,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,129,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,128,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,127,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,126,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,125,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,124,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,123,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,122,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,121,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,120,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,119,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,118,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,117,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,116,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,115,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,114,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,113,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,112,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,111,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,110,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,109,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,108,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,107,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,106,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,105,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,104,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,103,1),B
+[Mon May 15 18:50:40 UTC 2023][INFO] [Action] E DeleteContent - (c,102,1),B
+[Mon May 15 18:50:41 UTC 2023][INFO] [Action] E DeleteContent - (c,101,1),B
+[Mon May 15 18:50:41 UTC 2023][INFO] [Action] E DeleteContent - (c,100,1),B
+[Mon May 15 18:50:41 UTC 2023][INFO] [Action] E DeleteContent - (c,99,1),B
+[Mon May 15 18:50:41 UTC 2023][INFO] [Action] E DeleteContent - (c,98,1),B
+[Mon May 15 18:50:41 UTC 2023][INFO] [Action] E DeleteContent - (c,97,1),B
+[Mon May 15 18:50:41 UTC 2023][INFO] [Action] E DeleteContent - (c,96,1),B
+[Mon May 15 18:50:41 UTC 2023][INFO] [Action] E DeleteContent - (c,95,1),B
+[Mon May 15 18:50:41 UTC 2023][INFO] [Action] E DeleteContent - (c,94,1),B
+[Mon May 15 18:50:54 UTC 2023][INFO] [Action] E ApplySemantics - (r,92,1285),first_para
+[Mon May 15 18:50:59 UTC 2023][INFO] [Action] E ApplySemantics - (r,92,1285),first_para
+[Mon May 15 18:50:59 UTC 2023][INFO] [Action] EFail ApplySemantics - 4
+[Mon May 15 18:51:00 UTC 2023][INFO] [Action] E ApplySemantics - (r,92,1285),first_para
+[Mon May 15 18:51:00 UTC 2023][INFO] [Action] EFail ApplySemantics - 4
+[Mon May 15 18:51:01 UTC 2023][INFO] [Action] U ApplySemantics
+[Mon May 15 18:51:02 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:02 UTC 2023][INFO] [Action] E ApplySemantics - (r,94,94),first_para
+[Mon May 15 18:51:02 UTC 2023][INFO] [Action] E ApplySemantics - (r,94,94),first_para
+[Mon May 15 18:51:02 UTC 2023][INFO] [Action] EFail ApplySemantics - 4
+[Mon May 15 18:51:03 UTC 2023][INFO] [Action] U ApplySemantics
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:04 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:05 UTC 2023][INFO] [Action] U DeleteContent
+[Mon May 15 18:51:05 UTC 2023][INFO] [Action] U MergeContainer
+[Mon May 15 18:51:12 UTC 2023][INFO] [Action] E DeleteContent - (r,92,150),B
+[Mon May 15 18:51:20 UTC 2023][INFO] [Action] E AddTextContainer - (c,91,2),0,0,0
+[Mon May 15 18:51:32 UTC 2023][INFO] [Action] E DeleteContent - (r,1672,1730),B
+[Mon May 15 18:51:34 UTC 2023][INFO] [Action] E AddTextContainer - (c,1672,1),1,0,0
+[Mon May 15 18:51:35 UTC 2023][INFO] [Action] E AddTextContainer - (c,1673,1),1,0,0
+[Mon May 15 18:51:35 UTC 2023][INFO] [Action] E AddTextContainer - (c,1674,1),1,0,0
+[Mon May 15 18:51:35 UTC 2023][INFO] [Action] E AddTextContainer - (c,1675,1),1,0,0
+[Mon May 15 18:51:35 UTC 2023][INFO] [Action] E AddTextContainer - (c,1676,1),1,0,0
+[Mon May 15 18:51:36 UTC 2023][INFO] [Action] E AddTextContainer - (c,1677,1),1,0,0
+[Mon May 15 18:51:36 UTC 2023][INFO] [Action] E AddTextContainer - (c,1678,1),1,0,0
+[Mon May 15 18:51:36 UTC 2023][INFO] [Action] E AddTextContainer - (c,1679,1),1,0,0
+[Mon May 15 18:51:37 UTC 2023][INFO] [Action] E AddTextContainer - (c,1680,1),1,0,0
+[Mon May 15 18:51:37 UTC 2023][INFO] [Action] E AddTextContainer - (c,1681,1),1,0,0
+[Mon May 15 18:51:38 UTC 2023][INFO] [Action] E AddTextContainer - (c,1682,1),1,0,0
+[Mon May 15 18:51:49 UTC 2023][INFO] [Action] E SplitContainer - 3776
+[Mon May 15 18:51:52 UTC 2023][INFO] [Action] E AddTextContainer - (c,3882,2),0,0,0
+[Mon May 15 18:52:08 UTC 2023][INFO] [Action] E ApplySemantics - (r,4279,4326),chapter_title
+[Mon May 15 18:52:08 UTC 2023][INFO] [Action] EFail ApplySemantics - 4
+[Mon May 15 18:52:26 UTC 2023][INFO] [Action] E UpdateStyle - (r,4279,4326),34:59:3,(r,4279,4326),F
+[Mon May 15 18:53:01 UTC 2023][INFO] [Action] E AddTextContainer - (c,9407,2),0,0,0
+[Mon May 15 18:53:02 UTC 2023][INFO] [Action] E AddTextContainer - (c,9408,1),1,0,0
+[Mon May 15 18:53:45 UTC 2023][INFO] [Action] E SplitContainer - 16158
+[Mon May 15 18:53:45 UTC 2023][INFO] [Action] EFail SplitContainer - 4
+[Mon May 15 18:53:47 UTC 2023][INFO] [Action] E SplitContainer - 16158
+[Mon May 15 18:53:47 UTC 2023][INFO] [Action] EFail SplitContainer - 4
+[Mon May 15 18:53:56 UTC 2023][INFO] [Action] E SaveBook - Save
+[Mon May 15 18:54:32 UTC 2023][INFO] [Action] E AddTextContainer - (c,28353,1),1,0,0
+[Mon May 15 18:54:32 UTC 2023][INFO] [Action] E AddTextContainer - (c,28354,1),1,0,0
+[Mon May 15 18:54:38 UTC 2023][INFO] [Action] E AddTextContainer - (c,29292,2),0,0,0
+[Mon May 15 18:54:51 UTC 2023][INFO] [Action] E AddTextContainer - (c,31214,2),0,0,0
+[Mon May 15 18:57:06 UTC 2023][INFO] [Action] E AddTextContainer - (c,31214,2),0,0,0
+[Mon May 15 18:57:07 UTC 2023][INFO] [Action] E Paste - (c,31215,1),1519
+[Mon May 15 18:57:17 UTC 2023][INFO] [Action] E AddTextContainer - (c,31214,2),0,0,0
+[Mon May 15 18:57:33 UTC 2023][INFO] [Action] E MergeContainer - 31667,1
+[Mon May 15 18:57:34 UTC 2023][INFO] [Action] E MergeContainer - 31666,1
+[Mon May 15 18:57:37 UTC 2023][INFO] [Action] E SplitContainer - 31666
+[Mon May 15 18:57:39 UTC 2023][INFO] [Action] E MergeContainer - 31666,1
+[Mon May 15 18:57:41 UTC 2023][INFO] [Action] E InsertTextContent - (c,31665,2),[SPACE]
+[Mon May 15 18:57:44 UTC 2023][INFO] [Action] E SplitContainer - 31667
+[Mon May 15 18:58:00 UTC 2023][INFO] [Action] E MergeContainer - 31667,1
+[Mon May 15 18:58:01 UTC 2023][INFO] [Action] E SplitContainer - 31667
+[Mon May 15 18:58:09 UTC 2023][INFO] [Action] E MergeContainer - 31667,1
+[Mon May 15 18:58:13 UTC 2023][INFO] [Action] E SplitContainer - 31667
+[Mon May 15 18:58:57 UTC 2023][INFO] [Action] E AddTextContainer - (c,31666,2),0,0,0
+[Mon May 15 18:59:11 UTC 2023][INFO] [Action] E MergeContainer - 32320,1
+[Mon May 15 18:59:12 UTC 2023][INFO] [Action] E MergeContainer - 32319,1
+[Mon May 15 18:59:13 UTC 2023][INFO] [Action] E SplitContainer - 32319
+[Mon May 15 18:59:16 UTC 2023][INFO] [Action] E AddTextContainer - (c,32689,2),0,0,0
+[Mon May 15 18:59:17 UTC 2023][INFO] [Action] E MergeContainer - 32690,1
+[Mon May 15 19:00:11 UTC 2023][INFO] [Action] E SaveBook - Save
+[Mon May 15 19:00:45 UTC 2023][INFO] [Action] E SaveBook - SaveforExport
+[Mon May 15 19:03:03 UTC 2023][INFO] [Action] EE ExportAction
+[Mon May 15 19:03:37 UTC 2023][INFO] [Action] E SaveBook - Save
+[Mon May 15 19:58:12 UTC 2023][INFO] [Action] E SaveBook - Save
+[Mon May 15 19:58:20 UTC 2023][INFO] [Action] E SaveBook - SaveforExport
+[Mon May 15 19:58:25 UTC 2023][INFO] [Action] EE ExportAction
+[Mon May 15 19:58:25 UTC 2023][INFO] [Action] EFail ExportAction - 5
+[Mon May 15 19:58:29 UTC 2023][INFO] [Action] E SaveBook - Save
+[Mon May 15 19:58:29 UTC 2023][INFO] Logger Terminated
+[Tue May 16 16:47:10 UTC 2023][INFO] [Action] EE OpenBook - Visualisation créative Manifestez vos rêves en 20 minutes_KC.kcb
+[Tue May 16 16:47:24 UTC 2023][INFO] [Action] E ItemChanged - -1,4279
+[Tue May 16 16:47:27 UTC 2023][INFO] [Action] E ItemChanged - -1,4545
+[Tue May 16 16:47:29 UTC 2023][INFO] [Action] E ItemChanged - -1,23317
+[Tue May 16 16:47:55 UTC 2023][INFO] [Action] E PreviewBook - 31668
+[Tue May 16 16:49:00 UTC 2023][INFO] [Action] E AutoChapterGroupAction - 0
+[Tue May 16 16:49:07 UTC 2023][INFO] [Action] E AutoChapterGroupAction - 1
+[Tue May 16 16:49:45 UTC 2023][INFO] Logger Terminated
+[Tue May 16 17:37:10 UTC 2023][INFO] [Action] EE OpenBook - Visualisation créative Manifestez vos rêves en 20 minutes_KC.kcb
+[Tue May 16 17:37:37 UTC 2023][INFO] [Action] E Copy - (r,31668,32034)
+[Tue May 16 17:38:06 UTC 2023][INFO] [Action] E Copy - (r,32035,32689)
+[Tue May 16 17:38:44 UTC 2023][INFO] [Action] E Copy - (r,32319,32689)
+[Tue May 16 17:39:47 UTC 2023][INFO] [Action] E SaveBook - Save
+[Tue May 16 17:39:57 UTC 2023][INFO] [Action] E ApplySemantics - (r,23317,23396),chapter_subtitle
+[Tue May 16 17:40:09 UTC 2023][INFO] [Action] E ApplySemantics - (r,19314,19364),chapter_subtitle
+[Tue May 16 17:40:17 UTC 2023][INFO] [Action] U ApplySemantics
+[Tue May 16 17:40:17 UTC 2023][INFO] [Action] U ApplySemantics
+[Tue May 16 17:40:32 UTC 2023][INFO] [Action] E MergeContainer - 32319,1
+[Tue May 16 17:40:33 UTC 2023][INFO] [Action] E SplitContainer - 32319
+[Tue May 16 17:40:41 UTC 2023][INFO] [Action] E SaveBook - Save
+[Tue May 16 17:40:42 UTC 2023][INFO] [Action] E SaveBook - Save
+[Tue May 16 17:40:43 UTC 2023][INFO] Logger Terminated
