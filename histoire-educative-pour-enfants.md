@@ -2,7 +2,7 @@
 
 #### Dialog with chatgpt
 
-> Comment pourrait on amener se sujet dans un livre enfant a but
+> Ok maintenant Comment pourrait on amener se sujet dans un livre enfant a but
 > éducatif ?
 
 *ChatGPT*
